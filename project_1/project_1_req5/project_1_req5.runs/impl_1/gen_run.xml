@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7s50csga324-1" LaunchTime="1649334662">
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="BITSTR-SYSDEF" Name="prj1_req5.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="prj1_req5.ltx"/>
+  <File Type="BG-BGN" Name="prj1_req5.bgn"/>
+  <File Type="RNPI_FILE" Name="prj1_req5.rnpi"/>
+  <File Type="BG-DRC" Name="prj1_req5.drc"/>
+  <File Type="CFI_FILE" Name="prj1_req5.cfi"/>
+  <File Type="RCFI_FILE" Name="prj1_req5.rcfi"/>
+  <File Type="BITSTR-MMI" Name="prj1_req5.mmi"/>
+  <File Type="BITSTR-BMM" Name="prj1_req5_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="prj1_req5.nky"/>
+  <File Type="BITSTR-RBT" Name="prj1_req5.rbt"/>
+  <File Type="RBD_FILE" Name="prj1_req5.rbd"/>
+  <File Type="BITSTR-MSK" Name="prj1_req5.msk"/>
+  <File Type="NPI_FILE" Name="prj1_req5.npi"/>
+  <File Type="BG-BIN" Name="prj1_req5.bin"/>
+  <File Type="PDI-FILE" Name="prj1_req5.pdi"/>
+  <File Type="BG-BIT" Name="prj1_req5.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="prj1_req5_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="prj1_req5_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="prj1_req5_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="prj1_req5_timing_summary_postroute_physopted.rpx"/>
+  <File Type="RDI-RDI" Name="prj1_req5.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="prj1_req5_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="prj1_req5_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="prj1_req5_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="prj1_req5_postroute_physopt.dcp"/>
+  <File Type="ROUTE-BUS-SKEW" Name="prj1_req5_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="prj1_req5_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-SIMILARITY" Name="prj1_req5_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="prj1_req5_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-TIMING-PB" Name="prj1_req5_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="prj1_req5_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="prj1_req5_route_status.pb"/>
+  <File Type="ROUTE-STATUS" Name="prj1_req5_route_status.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="prj1_req5_power_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="prj1_req5_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="prj1_req5_power_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="prj1_req5_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="prj1_req5_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="prj1_req5_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="prj1_req5_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="prj1_req5_drc_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="prj1_req5_drc_routed.rpt"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="prj1_req5_routed_bb.dcp"/>
+  <File Type="ROUTE-DCP" Name="prj1_req5_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="prj1_req5_routed_error.dcp"/>
+  <File Type="PHYSOPT-TIMING" Name="prj1_req5_timing_summary_physopted.rpt"/>
+  <File Type="PHYSOPT-DRC" Name="prj1_req5_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="prj1_req5_physopt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="prj1_req5_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="prj1_req5_postplace_pwropt.dcp"/>
+  <File Type="PLACE-TIMING" Name="prj1_req5_timing_summary_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="prj1_req5_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="prj1_req5_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="prj1_req5_control_sets_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="prj1_req5_utilization_placed.pb"/>
+  <File Type="PLACE-UTIL" Name="prj1_req5_utilization_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="prj1_req5_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-IO" Name="prj1_req5_io_placed.rpt"/>
+  <File Type="PLACE-DCP" Name="prj1_req5_placed.dcp"/>
+  <File Type="PWROPT-TIMING" Name="prj1_req5_timing_summary_pwropted.rpt"/>
+  <File Type="PWROPT-DRC" Name="prj1_req5_drc_pwropted.rpt"/>
+  <File Type="PWROPT-DCP" Name="prj1_req5_pwropt.dcp"/>
+  <File Type="OPT-TIMING" Name="prj1_req5_timing_summary_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="prj1_req5.hwdef"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="prj1_req5_methodology_drc_opted.rpt"/>
+  <File Type="OPT-DRC" Name="prj1_req5_drc_opted.rpt"/>
+  <File Type="OPT-DCP" Name="prj1_req5_opt.dcp"/>
+  <File Type="INIT-TIMING" Name="prj1_req5_timing_summary_init.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="prj1_req5_bus_skew_routed.rpx"/>
+  <File Type="REPORTS-TCL" Name="prj1_req5_reports.tcl"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="prj1_req5_bus_skew_routed.pb"/>
+  <File Type="PA-TCL" Name="prj1_req5.tcl"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/prj1_req5.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="prj1_req5"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/prj1_re5.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/prj1_req5.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2021">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

@@ -1,0 +1,15 @@
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (lin64) Build 3367213 Tue Oct 19 02:47:39 MDT 2021
+| Date         : Thu Apr  7 16:27:09 2022
+| Host         : deggs209pc19 running 64-bit Ubuntu 20.04.4 LTS
+| Command      : report_bus_skew -warn_on_violation -file prj3_req1_bus_skew_routed.rpt -pb prj3_req1_bus_skew_routed.pb -rpx prj3_req1_bus_skew_routed.rpx
+| Design       : prj3_req1
+| Device       : 7s50-csga324
+| Speed File   : -1  PRODUCTION 1.23 2018-06-13
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

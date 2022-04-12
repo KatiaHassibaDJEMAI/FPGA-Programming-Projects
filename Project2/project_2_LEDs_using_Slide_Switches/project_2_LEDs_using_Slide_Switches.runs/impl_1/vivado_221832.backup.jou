@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:47:39 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Thu Mar 24 16:41:04 2022
+# Process ID: 221832
+# Current directory: /home/hd19094/project_2_LEDs_using_Slide_Switches/project_2_LEDs_using_Slide_Switches.runs/impl_1
+# Command line: vivado -log led_sw.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source led_sw.tcl -notrace
+# Log file: /home/hd19094/project_2_LEDs_using_Slide_Switches/project_2_LEDs_using_Slide_Switches.runs/impl_1/led_sw.vdi
+# Journal file: /home/hd19094/project_2_LEDs_using_Slide_Switches/project_2_LEDs_using_Slide_Switches.runs/impl_1/vivado.jou
+# Running On: deggs209pc19, OS: Linux, CPU Frequency: 3300.000 MHz, CPU Physical cores: 6, Host memory: 16479 MB
+#-----------------------------------------------------------
+source led_sw.tcl -notrace
